@@ -1,0 +1,49 @@
+html {
+    padding: 2.5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-image: url("bg.jpg")
+}
+
+body {
+    padding: 20px;
+
+    background-color: rgba(20, 1, 1, 0.719);
+}
+
+h1 {
+    color: white;
+    font-size: 60px;
+}
+
+h2 {
+    color: white;
+    font-size: 45px;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+
+.button {
+    background-color: rgb(59, 12, 12);
+    color: rgb(255, 255, 255);
+    height: 25px;
+    width:100px;
+    border: solid 3px rgb(235, 255, 51);
+}
+
+.button:hover {
+    background-color: rgb(110, 88, 16);
+    color: rgb(255, 255, 255);
+    height: 25px;
+    width:100px;
+    border: solid 3px rgb(235, 255, 51);
+}
+a {
+    color:rgb(235, 255, 51);
+
+}
